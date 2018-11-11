@@ -5,7 +5,7 @@ This repository provides supplementary material to the following paper by Radim 
 **The optimal strategy for photonic quantum tomography** ([preprint](https://arxiv.org/abs/1809.07521): arXiv 1809.07521 [quant-ph])
 
 ## Polarization tomography and the traveling salesman problem TSP
-See [TOMO_TSP.md](https://github.com/rhosak/tomo-tsp/TOMO_TSP.md) for the basic information on polarization tomography and its specification as TSP.
+See [TOMO_TSP.md](TOMO_TSP.md) for the basic information on polarization tomography and its specification as TSP.
 
 ## Software prerequisities
 
