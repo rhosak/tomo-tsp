@@ -24,8 +24,8 @@ Different projections can be measured by adjusting the angles of the HWP and QWP
 | projection | HWP angle | QWP angle |
 |------------|-----------|-----------|
 |      H     |     0.0   |     0     |
-|      V     |    22.5   |     0     |
-|      D     |    45.0   |     0     |
+|      V     |    45.0   |     0     |
+|      D     |    22.5   |     0     |
 |      A     |   -22.5   |     0     |
 |      R     |     0.0   |    45     |
 |      L     |     0.0   |   -45     |
