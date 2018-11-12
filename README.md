@@ -9,5 +9,8 @@ See [TOMO_TSP.md](TOMO_TSP.md) for the basic information on polarization tomogra
 
 ## Software prerequisities
 
-* [Python 3](https://www.python.org/), with [NumPy](http://www.numpy.org/)
+* [Python 3](https://www.python.org/)
+* Python 3 modules:
+   * [NumPy](http://www.numpy.org/)
+   * [Matplotlib](https://matplotlib.org/) (optional, for plotting)
 * [Concorde](http://www.math.uwaterloo.ca/tsp/concorde/downloads/downloads.htm) TSP solver
