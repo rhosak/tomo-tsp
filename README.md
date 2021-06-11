@@ -2,7 +2,7 @@
 Optimizing the order of polarization projections for n-qubit state tomography.
 
 This repository provides supplementary material to the following paper by Radim Hošák, Robert Stárek, and Miroslav Ježek:
-**The optimal strategy for photonic quantum tomography** ([preprint](https://arxiv.org/abs/1809.07521): arXiv 1809.07521 [quant-ph])
+**The optimal strategy for photonic quantum tomography**, Opt. Express 26, 32878 (2018), [preprint](https://arxiv.org/abs/1809.07521): arXiv 1809.07521 [quant-ph].
 
 ## Polarization tomography and the traveling salesman problem TSP
 See [TOMO_TSP.md](TOMO_TSP.md) for the basic information on polarization tomography and its specification as TSP.
